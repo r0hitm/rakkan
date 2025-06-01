@@ -2,6 +2,7 @@
   "name": "rakkan",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -16,6 +17,7 @@
     "@expo/vector-icons": "^14.1.0",
     "@react-navigation/native": "^7.1.6",
     "expo": "~53.0.9",
+    "expo-dev-client": "~5.1.8",
     "expo-font": "~13.3.1",
     "expo-linking": "~7.1.5",
     "expo-router": "~5.0.6",
